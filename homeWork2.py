@@ -54,5 +54,5 @@ userNumber(users)
 print(printOnScrenUser(users))
 print("===========" * 6)
 print(len(users))
-deleteMultipleUser([2,1,0]) # yani burasi biraz karmasik oldu terten vermek gerekyoksa index out if rangehatasi aliyorum ve delete user ile cakisiyor onu cozemedim.
+deleteMultipleUser([2,1,0]) # yani burasi biraz karmasik oldu tersten vermek gerekyoksa index out if rangehatasi aliyorum ve delete user ile cakisiyor onu cozemedim.
 print(len(users))
